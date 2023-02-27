@@ -7,5 +7,6 @@ public class Main {
         System.out.println(s1.distance());
 //        System.out.println(p1.x);
 //        System.out.println(p1.y);
+        System.out.println(s1.toSVG());
     }
 }
